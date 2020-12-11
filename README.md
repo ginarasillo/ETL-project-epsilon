@@ -1,3 +1,12 @@
+Bootcamp Sep-2020 - March 2021
+
+Team Members:
+
+Georgina Guzman Rasillo
+Berenice Nares
+Celina Barrera
+Jesús Daniel Sánchez Rómo
+
 ETL Project -Wines overview. 
 
 We used two Kaggle’s datasets to analyze wine regions, wineries, vineyards, wine varieties and their correspondent reviews around the world. 
